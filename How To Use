@@ -1,0 +1,7 @@
+# How To Use
+
+*** This is a very simple todo application. I built this on Django using function based view.
+To use it, all you need do is to type into the input box your task for the day.
+You can see the delete and update buttons. Those are to help delete and update you task.
+When you click on update, you will see a completion chechbox. Click is to strike a partiular
+task to show you have completd that task.
